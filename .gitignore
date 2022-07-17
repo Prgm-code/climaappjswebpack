@@ -2,7 +2,7 @@
 
 dist/*
 !dist/index.html
-!dist/index.js
+!dist/bundle.js
 node_modules/
 *.log
 
